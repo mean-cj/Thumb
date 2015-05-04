@@ -1,6 +1,6 @@
 # PHPThumb for Laravel 5 (Personal version)
 
-A simple [Laravel 5](http://four.laravel.com/) service provider for including the [PHPThumb for Laravel 4](https://github.com/mewebstudio/Thumb).
+A simple [Laravel 5](http://four.laravel.com/) service provider for including the [PHPThumb for Laravel 5](https://github.com/mewebstudio/Thumb).
 
 ## Installation
 
@@ -12,7 +12,7 @@ project's `composer.json`.
 {
     "require": {
         "laravel/framework": "5.0.*",
-        "mews/thumb": "dev-master"
+        "mean-cj/thumb": "dev-master"
     },
     "minimum-stability": "dev"
 }
